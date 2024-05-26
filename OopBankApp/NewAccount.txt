@@ -1,0 +1,3 @@
+nn,nn,4444,nn,hj,mn,Sun May 26 21:37:50 PST 2024,Female,,,,,500.0,2024100001
+ww,ww,4444,ww,w,ww,Sun May 26 22:21:40 PST 2024,Female,,,,,500.0,4048200002
+ww,ww,4444,wewe,,efsad,Sun May 26 23:23:43 PST 2024,Male,2e2,2e,e,weqd,500.0,6072300003
